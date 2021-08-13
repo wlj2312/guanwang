@@ -1,0 +1,93 @@
+/* .nav{
+	padding:1.875rem;
+	
+}
+.router-link-exact-active{
+	color:#42b983;
+}
+.router-link-active{
+	color:#42b983;
+} */
+body{
+	color: #333333;
+	letter-spacing: 0.0625rem;
+}
+
+	
+.router-link-exact-active.router-link-active{
+	color: #009A70;
+}
+	
+.nav a{
+	font-size: 0.875rem;
+	color: #000000;
+	margin-right: 1.5rem;
+}
+	
+.layui-input, .layui-select, .layui-textarea{
+	height: 1.25rem;
+	width: 7.5rem;
+}
+	
+#app{
+	font-family: 'pingfang';
+	/* font-family: 'Avenir', Helvetica, Arial, sans-serif */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: #2c3e50;
+	width: 100%;
+}
+.footer{
+	padding: 3.125rem 22.5rem 1.4375rem;
+	background: #F7F7F7;
+	color: #333333;
+	position: relative;
+	bottom: 0px;
+}
+.fangwei{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.tips{
+	margin: 1.125rem 0 0;
+	font-size: 0.75rem;
+	font-weight: 400;
+	color: #333333;
+	line-height: 1.625rem;
+}
+.line{
+	margin: 0 auto;
+	width: 100%;
+	height: 1px;
+	background: #ADADAD;
+}
+.footer-template{
+	text-align: left;
+}
+.fotter-header{
+	font-size: 1rem;
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+.fotter-conter{
+	font-size: 0.75rem;
+	font-weight: 400;
+	line-height: 1.625rem;
+	
+}
+#header{
+	margin:0 auto;
+	text-align: center;
+	padding: 0.9375rem 17.1875rem;
+}
+.loog{
+	width:15.9375rem;
+	margin-right:10%;
+}
+.search{
+	width: 8.75rem;
+	height: 1.25rem;
+	margin-left: 8%;
+}
